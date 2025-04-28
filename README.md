@@ -1,1 +1,1 @@
-* 1.  Right-Angled Triangle with Stars
+1.  Right-Angled Triangle with Stars
